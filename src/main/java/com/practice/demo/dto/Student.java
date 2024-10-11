@@ -8,6 +8,8 @@ import lombok.*;
 @Getter
 @Setter
 public class Student {
+    
     private String name;
     private Integer marks;
+    
 }
